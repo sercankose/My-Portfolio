@@ -1,3 +1,9 @@
+#My-Porfolio
+
+This is my portfolio which was developed by using React.
+
+In my portfolio, you can find information about me and a selection of my range of projects. Also, you can reach me via my contact information at the bottom of the page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
