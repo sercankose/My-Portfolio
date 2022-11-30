@@ -9,7 +9,7 @@ function Footer() {
           <li className="social-list-item">
             <a
               className="social-list-link"
-              href="https://www.linkedin.com/in/sercan-köse-frontend-dev/"
+              href="https://www.linkedin.com/in/sercan-kose-frontend-dev/"
               target="_blank"
             >
               <i className="fa-brands fa-linkedin"></i>
