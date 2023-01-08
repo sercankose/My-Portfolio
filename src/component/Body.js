@@ -53,6 +53,9 @@ function Body() {
               <li>JS</li>
               <li>HTML</li>
               <li>CSS</li>
+              <li>Git & GitHub</li>
+              <li>Bootstrap</li>
+              <li>Jest</li>
             </ul>
           </div>
         </div>
