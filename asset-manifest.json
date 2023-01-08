@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.230bd17c.css",
-    "main.js": "/My-Portfolio/static/js/main.d4fc7165.js",
+    "main.css": "/My-Portfolio/static/css/main.97576751.css",
+    "main.js": "/My-Portfolio/static/js/main.827c1c80.js",
     "static/js/787.128fc6e9.chunk.js": "/My-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/portfolio-item-2.PNG": "/My-Portfolio/static/media/portfolio-item-2.d49f64b3fa85a1d5cce9.PNG",
     "static/media/portfolio-item-3.PNG": "/My-Portfolio/static/media/portfolio-item-3.16cca866c20845a76f5a.PNG",
@@ -9,12 +9,12 @@
     "static/media/logo-sercan.png": "/My-Portfolio/static/media/logo-sercan.15c32ee422590b15af59.png",
     "static/media/portfolio-item-1.PNG": "/My-Portfolio/static/media/portfolio-item-1.b99d18658a55c1fa47fa.PNG",
     "index.html": "/My-Portfolio/index.html",
-    "main.230bd17c.css.map": "/My-Portfolio/static/css/main.230bd17c.css.map",
-    "main.d4fc7165.js.map": "/My-Portfolio/static/js/main.d4fc7165.js.map",
+    "main.97576751.css.map": "/My-Portfolio/static/css/main.97576751.css.map",
+    "main.827c1c80.js.map": "/My-Portfolio/static/js/main.827c1c80.js.map",
     "787.128fc6e9.chunk.js.map": "/My-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.230bd17c.css",
-    "static/js/main.d4fc7165.js"
+    "static/css/main.97576751.css",
+    "static/js/main.827c1c80.js"
   ]
 }
