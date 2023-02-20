@@ -26,7 +26,7 @@ function Body() {
         </p>
         <img
           className="intro-photo"
-          src={require("../images/intro-photo.jpeg")}
+          src={require("../images/intro-photo.jpg")}
           alt="a picture of Sercan"
         />
       </section>
@@ -54,6 +54,7 @@ function Body() {
               <li>HTML</li>
               <li>CSS</li>
               <li>Git & GitHub</li>
+              <li>Redux</li>
               <li>Bootstrap</li>
               <li>Jest</li>
             </ul>

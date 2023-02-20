@@ -329,7 +329,7 @@ header {
     width: 65%;
   }
   .about-me-skills {
-    width: 30%;
+    width: 40%;
     display: flex;
     flex-direction: column;
     align-items: center;
